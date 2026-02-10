@@ -24,6 +24,7 @@ O projeto utiliza **análise estatística e medidas de associação** para prior
 - Cramér’s V (força da associação entre variáveis categóricas e churn)
 - Simulação do impacto de mitigação dos drivers na taxa final de cancelamento
 - Comunicação de insights em formato executivo
+- Dataset https://drive.google.com/file/d/1gRFI0v_EL5m8GpIjKVsrpnKE1oUSisZZ/view?usp=sharing
 
 ---
 
@@ -47,7 +48,7 @@ O projeto utiliza **análise estatística e medidas de associação** para prior
 
 ---
 
-## 📌 Projeto completo (com narrativa e insights)
+## 📌 Projeto completo
 
 Toda a narrativa do projeto, gráficos, interpretações e recomendações de negócio estão documentados no meu portfólio:
 
